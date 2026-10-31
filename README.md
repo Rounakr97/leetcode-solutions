@@ -27,4 +27,12 @@
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/Rounakr97/leetcode-solutions/tree/main/0231-power-of-two/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Rounakr97/leetcode-solutions/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/Rounakr97/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/Rounakr97/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
 <!---LeetCode Topics End-->
